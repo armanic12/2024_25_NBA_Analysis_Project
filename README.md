@@ -16,7 +16,9 @@ The notebook `NBA_Data_Web_Scrape.ipynb`:
 ## Tableau Visualization  
 Hosted on Tableau Public. The dashboard connects to the scraped and cleaned data. It enables filtering, trend exploration, and interactive display of key player stats.
 
-URL to interactive dashboard: https://public.tableau.com/views/NBAAnalysis_17549436755440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**URL to interactive dashboard:**
+
+https://public.tableau.com/views/NBAAnalysis_17549436755440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## How to Run  
 1. Open `NBA_Data_Web_Scrape.ipynb` in Jupyter  
